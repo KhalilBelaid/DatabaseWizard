@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\DatabaseWizard\\DatabaseWizard.csproj": {}
+    "c:\\Projects\\DatabaseWizard\\DatabaseWizard.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\DatabaseWizard\\DatabaseWizard.csproj": {
+    "c:\\Projects\\DatabaseWizard\\DatabaseWizard.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\DatabaseWizard\\DatabaseWizard.csproj",
+        "projectUniqueName": "c:\\Projects\\DatabaseWizard\\DatabaseWizard.csproj",
         "projectName": "DatabaseWizard",
-        "projectPath": "C:\\Projects\\DatabaseWizard\\DatabaseWizard.csproj",
+        "projectPath": "c:\\Projects\\DatabaseWizard\\DatabaseWizard.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\DatabaseWizard\\obj\\",
+        "outputPath": "c:\\Projects\\DatabaseWizard\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
