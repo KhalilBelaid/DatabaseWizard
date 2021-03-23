@@ -4,3 +4,6 @@
 
 /.vs
 /DatabaseWizard/.vs/DatabaseWizard/v16
+/DatabaseWizard/.vscode
+/DatabaseWizard/bin
+/DatabaseWizard/obj

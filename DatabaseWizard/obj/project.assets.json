@@ -13,18 +13,18 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\DatabaseWizard\\DatabaseWizard.csproj",
+      "projectUniqueName": "c:\\Projects\\DatabaseWizard\\DatabaseWizard.csproj",
       "projectName": "DatabaseWizard",
-      "projectPath": "C:\\Projects\\DatabaseWizard\\DatabaseWizard.csproj",
+      "projectPath": "c:\\Projects\\DatabaseWizard\\DatabaseWizard.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\DatabaseWizard\\obj\\",
+      "outputPath": "c:\\Projects\\DatabaseWizard\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0-windows7.0"
+        "net5.0-windows"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
